@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sport Manager</string>
+    <string name="new_exercise">New exercise</string>
+    <string name="new_training">New training</string>
+    <string name="sport_manager">Sport Manager</string>
+    <string-array name="exercises_array">
+        <item>Push ups</item>
+        <item>Pull ups</item>
+        <item>Bench press</item>
+        <item>Sit ups</item>
+        <item>Vert thrust</item>
+        <item>Abd crunch</item>
+    </string-array>
+</resources>
